@@ -1,0 +1,7 @@
+name: QuestUtils
+description: Un plugin de gestion personalisé pour EARTHQUEST
+author: Clemdefrance
+api-version: 1.7
+version: 1.0
+main: com.clemdefrance.questutils.Main
+commands:
